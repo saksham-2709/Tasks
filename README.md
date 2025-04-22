@@ -1,2 +1,3 @@
-Mentions a cleaned dataset providing with customer purchase data where it mentions customers last months purchases records ,website visits etc.
+Day -2 
+Created a PowerBi DashBoard with visualizing sales of zara on 19th Feb,2024 
 
