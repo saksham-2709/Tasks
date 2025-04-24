@@ -1,3 +1,3 @@
-Day -2 
-Created a PowerBi DashBoard with visualizing sales of zara on 19th Feb,2024 
+Day -3 
+Analyzed job postings dataset using mysql queries on line client 
 
