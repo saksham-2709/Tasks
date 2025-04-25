@@ -1,3 +1,3 @@
 Day -3 
-Analyzed job postings dataset using mysql queries on line client 
+Developed an interactive Power BI dashboard and accompanying PowerPoint presentation to visually analyze a sales dataset and deliver actionable business insights.
 
