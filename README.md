@@ -1,3 +1,3 @@
-Day -4 
-Developed an interactive Power BI dashboard and accompanying PowerPoint presentation to visually analyze a sales dataset and deliver actionable business insights.
+Day -6
+Analyzed sales data using sql queries for data of sales in year 2003 - 2005.
 
