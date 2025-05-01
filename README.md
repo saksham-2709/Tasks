@@ -1,3 +1,3 @@
-Day -6
-Analyzed sales data using sql queries for data of sales in year 2003 - 2005.
+Day -7
+Handled basic analysis queries with connecting database to python.
 
